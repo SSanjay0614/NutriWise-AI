@@ -2,6 +2,9 @@
 
 **Explainable, rule-based diet guidance and personalized meal planning for people managing diabetes.**
 
+🌐 **Live:** <https://nutriwise-ai-qkwh.onrender.com>
+*(Hosted on Render's free tier — the first request after it's been idle can take ~30–60s to wake up.)*
+
 > ⚠️ **Educational prototype — not a medical device.** NutriWise provides *dietary information only*. It does **not** diagnose, treat, or dose medication, and it **never** advises on insulin. Always follow your doctor's and dietitian's guidance.
 
 ---
