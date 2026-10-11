@@ -1,0 +1,19 @@
+# Keep the Docker build context small and clean
+.git
+.gitignore
+.env
+.env.*
+!.env.example
+__pycache__/
+*.pyc
+.pytest_cache/
+.test-tmp/
+frontend/node_modules/
+frontend/dist/
+docs/
+tests/
+scripts/
+supabase/
+*.md
+.vercel/
+.DS_Store

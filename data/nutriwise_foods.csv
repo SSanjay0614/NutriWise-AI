@@ -1,0 +1,151 @@
+food_id,food_name,category,serving_size_g,calories_kcal,protein_g,carbohydrate_g,fat_g,fiber_g,sugar_g,sodium_mg,calcium_mg,iron_mg,potassium_mg,source,glycemic_index,gi_category,vitamin_a_mcg,vitamin_c_mg,vitamin_d_mcg,vitamin_b12_mcg,folate_mcg,magnesium_mg,zinc_mg
+F001,Idli,South Indian Breakfast,40,58,1.9,12.0,0.2,0.8,0.1,120,10,0.5,35,NutriWise curated prototype dataset (approximate values per standard serving),69,medium,15.0,2.0,0.0,0.1,22.0,32.0,0.9
+F002,Plain Dosa,South Indian Breakfast,80,168,3.8,26.0,5.0,1.0,1.0,250,20,1.0,70,NutriWise curated prototype dataset (approximate values per standard serving),68,medium,15.0,2.0,0.0,0.1,22.0,32.0,0.9
+F003,Masala Dosa,South Indian Breakfast,150,290,6.0,42.0,10.0,3.0,2.0,520,45,2.0,180,NutriWise curated prototype dataset (approximate values per standard serving),69,medium,15.0,2.0,0.0,0.1,22.0,32.0,0.9
+F004,Rava Dosa,South Indian Breakfast,100,210,4.0,31.0,7.0,1.5,1.0,390,25,1.2,120,NutriWise curated prototype dataset (approximate values per standard serving),65,medium,15.0,2.0,0.0,0.1,22.0,32.0,0.9
+F005,Set Dosa,South Indian Breakfast,120,225,5.0,37.0,6.0,1.5,1.5,330,30,1.3,125,NutriWise curated prototype dataset (approximate values per standard serving),68,medium,15.0,2.0,0.0,0.1,22.0,32.0,0.9
+F006,Onion Uttapam,South Indian Breakfast,120,230,6.0,34.0,7.0,2.0,2.5,420,55,1.5,180,NutriWise curated prototype dataset (approximate values per standard serving),65,medium,15.0,2.0,0.0,0.1,22.0,32.0,0.9
+F007,Ven Pongal,South Indian Breakfast,250,330,9.0,49.0,10.0,3.0,2.0,600,75,2.0,260,NutriWise curated prototype dataset (approximate values per standard serving),72,high,15.0,2.0,0.0,0.1,22.0,32.0,0.9
+F008,Upma,South Indian Breakfast,200,270,7.0,43.0,7.0,3.0,2.0,520,50,2.0,210,NutriWise curated prototype dataset (approximate values per standard serving),65,medium,15.0,2.0,0.0,0.1,22.0,32.0,0.9
+F009,Poha,Indian Breakfast,200,250,6.0,44.0,6.0,3.0,3.0,420,35,2.0,210,NutriWise curated prototype dataset (approximate values per standard serving),60,medium,15.0,2.0,0.0,0.0,20.0,30.0,0.8
+F010,Medu Vada,South Indian Snack,50,135,4.0,13.0,7.0,1.5,0.5,250,25,1.2,95,NutriWise curated prototype dataset (approximate values per standard serving),62,medium,12.0,1.0,0.0,0.0,20.0,28.0,0.8
+F011,Sambar,Indian Side,150,105,5.0,15.0,2.5,4.0,4.0,550,55,1.8,250,NutriWise curated prototype dataset (approximate values per standard serving),35,low,60.0,6.0,0.0,0.0,35.0,25.0,0.7
+F012,Rasam,Indian Side,150,55,2.0,8.0,1.5,1.5,2.0,500,35,1.0,180,NutriWise curated prototype dataset (approximate values per standard serving),35,low,60.0,6.0,0.0,0.0,35.0,25.0,0.7
+F013,Coconut Chutney,Indian Side,50,95,1.5,4.0,8.0,2.0,1.5,160,10,0.6,90,NutriWise curated prototype dataset (approximate values per standard serving),35,low,60.0,6.0,0.0,0.0,35.0,25.0,0.7
+F014,Chapati,Indian Main,40,105,3.5,18.0,2.0,2.5,0.5,120,20,1.2,90,NutriWise curated prototype dataset (approximate values per standard serving),52,low,20.0,2.0,0.0,0.1,30.0,45.0,1.1
+F015,Aloo Paratha,Indian Main,120,290,7.0,40.0,11.0,4.0,2.0,430,55,2.2,260,NutriWise curated prototype dataset (approximate values per standard serving),60,medium,20.0,2.0,0.0,0.1,30.0,45.0,1.1
+F016,Puri,Indian Main,60,175,4.0,24.0,8.0,1.5,0.5,220,20,1.0,75,NutriWise curated prototype dataset (approximate values per standard serving),72,high,20.0,2.0,0.0,0.1,30.0,45.0,1.1
+F017,Bhatura,Indian Main,100,290,7.0,43.0,10.0,2.0,2.0,420,35,2.0,120,NutriWise curated prototype dataset (approximate values per standard serving),75,high,20.0,2.0,0.0,0.1,30.0,45.0,1.1
+F018,Steamed White Rice,Indian Main,150,195,4.0,43.0,0.5,0.6,0.1,5,15,0.4,55,NutriWise curated prototype dataset (approximate values per standard serving),73,high,20.0,2.0,0.0,0.1,30.0,45.0,1.1
+F019,Brown Rice,Indian Main,150,165,4.0,34.0,1.4,2.7,0.5,5,15,0.8,125,NutriWise curated prototype dataset (approximate values per standard serving),55,low,20.0,2.0,0.0,0.1,30.0,45.0,1.1
+F020,Curd Rice,Indian Main,250,300,8.0,47.0,8.0,1.0,4.0,430,200,0.8,180,NutriWise curated prototype dataset (approximate values per standard serving),65,medium,20.0,2.0,0.0,0.1,30.0,45.0,1.1
+F021,Lemon Rice,Indian Main,200,310,6.0,48.0,10.0,2.0,2.0,480,40,1.5,180,NutriWise curated prototype dataset (approximate values per standard serving),70,high,20.0,2.0,0.0,0.1,30.0,45.0,1.1
+F022,Tomato Rice,Indian Main,200,300,6.0,48.0,8.0,2.5,4.0,450,55,1.8,240,NutriWise curated prototype dataset (approximate values per standard serving),70,high,20.0,2.0,0.0,0.1,30.0,45.0,1.1
+F023,Vegetable Rice,Indian Main,250,340,8.0,55.0,9.0,4.0,5.0,480,70,2.2,350,NutriWise curated prototype dataset (approximate values per standard serving),68,medium,20.0,2.0,0.0,0.1,30.0,45.0,1.1
+F024,Veg Biryani,Indian Main,300,480,10.0,68.0,17.0,4.0,5.0,800,80,3.0,430,NutriWise curated prototype dataset (approximate values per standard serving),65,medium,20.0,2.0,0.0,0.1,30.0,45.0,1.1
+F025,Chicken Biryani,Indian Main,300,560,27.0,65.0,23.0,3.0,3.0,1050,75,3.2,480,NutriWise curated prototype dataset (approximate values per standard serving),60,medium,20.0,2.0,0.0,0.1,30.0,45.0,1.1
+F026,Egg Biryani,Indian Main,300,510,19.0,67.0,18.0,3.0,4.0,900,90,3.0,420,NutriWise curated prototype dataset (approximate values per standard serving),60,medium,20.0,2.0,0.0,0.1,30.0,45.0,1.1
+F027,Mutton Biryani,Indian Main,300,620,28.0,64.0,28.0,3.0,3.0,1100,65,3.5,430,NutriWise curated prototype dataset (approximate values per standard serving),58,medium,20.0,2.0,0.0,0.1,30.0,45.0,1.1
+F028,Dal Rice,Indian Main,300,390,14.0,66.0,8.0,8.0,3.0,550,75,3.2,400,NutriWise curated prototype dataset (approximate values per standard serving),65,medium,20.0,2.0,0.0,0.1,30.0,45.0,1.1
+F029,Pav Bhaji,Indian Street Food,250,400,9.0,55.0,15.0,7.0,8.0,850,100,3.0,500,NutriWise curated prototype dataset (approximate values per standard serving),65,medium,90.0,12.0,0.1,0.2,40.0,40.0,1.2
+F030,Vegetable Pulao,Indian Main,250,370,8.0,57.0,11.0,3.0,4.0,600,65,2.2,330,NutriWise curated prototype dataset (approximate values per standard serving),65,medium,20.0,2.0,0.0,0.1,30.0,45.0,1.1
+F031,Dal Tadka,Indian Curry,180,230,11.0,28.0,8.0,7.0,2.0,520,55,2.8,330,NutriWise curated prototype dataset (approximate values per standard serving),30,low,120.0,8.0,0.1,0.3,120.0,40.0,1.3
+F032,Chana Masala,Indian Curry,180,270,12.0,37.0,8.0,9.0,6.0,600,80,3.5,450,NutriWise curated prototype dataset (approximate values per standard serving),35,low,120.0,8.0,0.1,0.3,160.0,50.0,1.5
+F033,Rajma Curry,Indian Curry,180,250,12.0,35.0,7.0,8.0,4.0,520,75,3.5,430,NutriWise curated prototype dataset (approximate values per standard serving),35,low,120.0,8.0,0.1,0.3,130.0,55.0,1.4
+F034,Mixed Vegetable Curry,Indian Curry,180,180,5.0,20.0,9.0,5.0,6.0,500,80,2.0,400,NutriWise curated prototype dataset (approximate values per standard serving),40,low,120.0,8.0,0.1,0.3,55.0,45.0,1.3
+F035,Palak Paneer,Indian Curry,200,330,15.0,12.0,24.0,4.0,3.0,650,350,3.0,500,NutriWise curated prototype dataset (approximate values per standard serving),30,low,120.0,8.0,0.1,0.3,55.0,45.0,1.3
+F036,Paneer Butter Masala,Indian Curry,200,430,16.0,15.0,34.0,2.0,6.0,700,300,2.0,300,NutriWise curated prototype dataset (approximate values per standard serving),30,low,120.0,8.0,0.1,0.3,55.0,45.0,1.3
+F037,Chicken Curry,Indian Curry,200,360,28.0,10.0,24.0,2.0,3.0,700,60,2.8,390,NutriWise curated prototype dataset (approximate values per standard serving),30,low,120.0,8.0,0.1,0.3,55.0,45.0,1.3
+F038,Butter Chicken,Indian Curry,250,480,29.0,14.0,34.0,2.0,7.0,850,120,2.5,390,NutriWise curated prototype dataset (approximate values per standard serving),30,low,120.0,8.0,0.1,0.3,55.0,45.0,1.3
+F039,Grilled Chicken,Protein,150,250,42.0,0.0,9.0,0.0,0.0,180,25,1.2,420,NutriWise curated prototype dataset (approximate values per standard serving),5,low,60.0,1.0,0.8,1.2,25.0,30.0,2.2
+F040,Tandoori Chicken,Protein,150,290,38.0,4.0,13.0,0.5,1.0,650,45,1.8,430,NutriWise curated prototype dataset (approximate values per standard serving),5,low,60.0,1.0,0.8,1.2,25.0,30.0,2.2
+F041,Boiled Egg,Protein,50,78,6.3,0.6,5.3,0.0,0.4,62,25,0.9,63,NutriWise curated prototype dataset (approximate values per standard serving),5,low,80.0,1.0,1.1,0.6,25.0,30.0,2.2
+F042,Omelette,Protein,100,170,11.0,2.0,13.0,0.3,1.0,300,50,1.6,150,NutriWise curated prototype dataset (approximate values per standard serving),5,low,60.0,1.0,1.3,0.7,25.0,30.0,2.2
+F043,Egg Bhurji,Protein,150,250,16.0,6.0,18.0,1.5,3.0,550,80,2.2,250,NutriWise curated prototype dataset (approximate values per standard serving),10,low,60.0,1.0,1.3,0.8,25.0,30.0,2.2
+F044,Paneer,Protein,100,265,18.3,6.0,20.0,0.0,2.0,20,420,2.0,100,NutriWise curated prototype dataset (approximate values per standard serving),27,low,60.0,1.0,0.8,1.2,25.0,30.0,2.2
+F045,Tofu,Protein,100,145,15.0,3.0,9.0,1.0,0.6,15,350,2.7,235,NutriWise curated prototype dataset (approximate values per standard serving),15,low,60.0,1.0,0.8,1.2,25.0,30.0,2.2
+F046,Plain Curd,Dairy,150,92,5.0,7.0,5.0,0.0,7.0,70,180,0.1,230,NutriWise curated prototype dataset (approximate values per standard serving),35,low,90.0,1.0,1.2,0.6,10.0,15.0,0.6
+F047,Greek Yogurt,Dairy,150,110,15.0,6.0,3.0,0.0,5.0,65,165,0.1,230,NutriWise curated prototype dataset (approximate values per standard serving),15,low,27.0,1.0,1.2,0.8,10.0,15.0,0.6
+F048,Cow Milk,Dairy,250,150,8.0,12.0,8.0,0.0,12.0,105,300,0.1,375,NutriWise curated prototype dataset (approximate values per standard serving),40,low,95.0,1.0,1.2,0.9,10.0,15.0,0.6
+F049,Buttermilk,Drinks,250,65,3.5,6.0,2.0,0.0,5.0,220,300,0.1,375,NutriWise curated prototype dataset (approximate values per standard serving),30,low,20.0,8.0,0.2,0.2,12.0,12.0,0.3
+F050,Sweet Lassi,Drinks,250,190,7.0,29.0,5.0,0.0,27.0,180,250,0.2,300,NutriWise curated prototype dataset (approximate values per standard serving),65,medium,20.0,8.0,0.2,0.2,12.0,12.0,0.3
+F051,Banana,Fruit,100,89,1.1,23.0,0.3,2.6,12.0,1,5,0.3,358,NutriWise curated prototype dataset (approximate values per standard serving),55,low,35.0,25.0,0.0,0.0,25.0,18.0,0.2
+F052,Apple,Fruit,150,78,0.4,21.0,0.3,3.6,15.0,2,9,0.2,161,NutriWise curated prototype dataset (approximate values per standard serving),38,low,35.0,25.0,0.0,0.0,25.0,18.0,0.2
+F053,Orange,Fruit,130,61,1.2,15.0,0.2,3.1,12.0,1,52,0.1,237,NutriWise curated prototype dataset (approximate values per standard serving),43,low,35.0,50.0,0.0,0.0,40.0,18.0,0.2
+F054,Mango,Fruit,150,90,1.2,22.5,0.6,2.4,20.0,2,18,0.2,252,NutriWise curated prototype dataset (approximate values per standard serving),55,low,54.0,36.0,0.0,0.0,25.0,18.0,0.2
+F055,Papaya,Fruit,150,65,0.7,16.0,0.3,2.5,12.0,4,30,0.2,275,NutriWise curated prototype dataset (approximate values per standard serving),60,medium,55.0,60.0,0.0,0.0,25.0,18.0,0.2
+F056,Guava,Fruit,100,68,2.6,14.0,1.0,5.4,9.0,2,18,0.3,417,NutriWise curated prototype dataset (approximate values per standard serving),35,low,35.0,180.0,0.0,0.0,40.0,18.0,0.2
+F057,Watermelon,Fruit,200,60,1.2,15.0,0.3,0.8,12.0,2,14,0.2,170,NutriWise curated prototype dataset (approximate values per standard serving),72,high,35.0,25.0,0.0,0.0,25.0,18.0,0.2
+F058,Pomegranate,Fruit,150,125,2.5,28.0,1.8,5.0,20.0,5,15,0.5,360,NutriWise curated prototype dataset (approximate values per standard serving),53,low,35.0,25.0,0.0,0.0,25.0,18.0,0.2
+F059,Grapes,Fruit,150,104,1.1,27.0,0.2,1.4,23.0,3,15,0.4,290,NutriWise curated prototype dataset (approximate values per standard serving),59,medium,35.0,25.0,0.0,0.0,25.0,18.0,0.2
+F060,Pineapple,Fruit,150,75,0.8,20.0,0.2,2.1,15.0,2,24,0.3,165,NutriWise curated prototype dataset (approximate values per standard serving),66,medium,35.0,48.0,0.0,0.0,25.0,18.0,0.2
+F061,Carrot,Vegetable,100,41,0.9,10.0,0.2,2.8,4.7,69,33,0.3,320,NutriWise curated prototype dataset (approximate values per standard serving),39,low,835.0,6.0,0.0,0.0,45.0,25.0,0.5
+F062,Spinach,Vegetable,100,23,2.9,3.6,0.4,2.2,0.4,79,99,2.7,558,NutriWise curated prototype dataset (approximate values per standard serving),15,low,470.0,14.0,0.0,0.0,110.0,55.0,0.5
+F063,Tomato,Vegetable,100,18,0.9,3.9,0.2,1.2,2.6,5,10,0.3,237,NutriWise curated prototype dataset (approximate values per standard serving),15,low,42.0,18.0,0.0,0.0,45.0,25.0,0.5
+F064,Potato,Vegetable,150,116,3.0,26.0,0.2,2.5,1.7,9,18,1.0,510,NutriWise curated prototype dataset (approximate values per standard serving),78,high,150.0,20.0,0.0,0.0,45.0,25.0,0.5
+F065,Sweet Potato,Vegetable,150,135,2.5,31.0,0.2,4.5,9.0,75,45,0.9,505,NutriWise curated prototype dataset (approximate values per standard serving),63,medium,700.0,12.0,0.0,0.0,45.0,25.0,0.5
+F066,Broccoli,Vegetable,100,34,2.8,7.0,0.4,2.6,1.7,33,47,0.7,316,NutriWise curated prototype dataset (approximate values per standard serving),15,low,30.0,65.0,0.0,0.0,60.0,25.0,0.5
+F067,Chicken Fried Rice,Fast Food,300,520,22.0,65.0,18.0,2.5,3.0,950,55,2.5,330,NutriWise curated prototype dataset (approximate values per standard serving),68,medium,45.0,3.0,0.3,0.4,28.0,35.0,1.4
+F068,Veg Fried Rice,Fast Food,300,430,9.0,70.0,12.0,3.5,4.0,850,55,2.2,300,NutriWise curated prototype dataset (approximate values per standard serving),70,high,45.0,3.0,0.3,0.4,28.0,35.0,1.4
+F069,Egg Fried Rice,Fast Food,300,490,16.0,68.0,15.0,2.5,3.0,900,75,2.3,320,NutriWise curated prototype dataset (approximate values per standard serving),68,medium,45.0,3.0,0.3,0.4,28.0,35.0,1.4
+F070,Schezwan Fried Rice,Fast Food,300,540,11.0,75.0,20.0,3.0,5.0,1200,65,2.4,350,NutriWise curated prototype dataset (approximate values per standard serving),70,high,45.0,3.0,0.3,0.4,28.0,35.0,1.4
+F071,Chicken Noodles,Fast Food,300,510,23.0,62.0,18.0,3.0,5.0,1050,55,2.5,320,NutriWise curated prototype dataset (approximate values per standard serving),60,medium,45.0,3.0,0.3,0.4,28.0,35.0,1.4
+F072,Veg Noodles,Fast Food,300,440,10.0,67.0,13.0,3.5,5.0,950,55,2.1,300,NutriWise curated prototype dataset (approximate values per standard serving),62,medium,45.0,3.0,0.3,0.4,28.0,35.0,1.4
+F073,Egg Noodles,Fast Food,300,480,17.0,65.0,15.0,3.0,4.0,1000,75,2.3,320,NutriWise curated prototype dataset (approximate values per standard serving),60,medium,45.0,3.0,0.3,0.4,28.0,35.0,1.4
+F074,Schezwan Noodles,Fast Food,300,530,12.0,70.0,19.0,3.0,5.0,1250,60,2.4,330,NutriWise curated prototype dataset (approximate values per standard serving),62,medium,45.0,3.0,0.3,0.4,28.0,35.0,1.4
+F075,Chicken 65,Fast Food,150,390,28.0,16.0,25.0,1.0,1.0,850,40,2.0,300,NutriWise curated prototype dataset (approximate values per standard serving),45,low,45.0,3.0,0.3,0.4,28.0,35.0,1.4
+F076,Chilli Chicken,Fast Food,200,420,29.0,20.0,25.0,1.5,5.0,1100,50,2.1,300,NutriWise curated prototype dataset (approximate values per standard serving),50,low,45.0,3.0,0.3,0.4,28.0,35.0,1.4
+F077,Gobi Manchurian,Fast Food,200,350,7.0,42.0,17.0,4.0,8.0,1050,45,2.0,300,NutriWise curated prototype dataset (approximate values per standard serving),60,medium,45.0,3.0,0.3,0.4,28.0,35.0,1.4
+F078,Chicken Shawarma,Fast Food,250,520,30.0,45.0,24.0,3.0,5.0,1000,120,3.0,360,NutriWise curated prototype dataset (approximate values per standard serving),55,low,45.0,3.0,0.3,0.4,28.0,35.0,1.4
+F079,Chicken Roll,Fast Food,200,450,22.0,43.0,20.0,3.0,4.0,850,70,2.5,320,NutriWise curated prototype dataset (approximate values per standard serving),60,medium,45.0,3.0,0.3,0.4,28.0,35.0,1.4
+F080,Egg Roll,Fast Food,180,380,15.0,42.0,16.0,3.0,4.0,750,90,2.4,280,NutriWise curated prototype dataset (approximate values per standard serving),60,medium,45.0,3.0,0.3,0.4,28.0,35.0,1.4
+F081,Paneer Roll,Fast Food,200,430,17.0,43.0,20.0,4.0,5.0,800,220,2.5,300,NutriWise curated prototype dataset (approximate values per standard serving),58,medium,45.0,3.0,0.3,0.4,28.0,35.0,1.4
+F082,Chicken Burger,Fast Food,200,520,27.0,48.0,24.0,3.0,7.0,1100,150,3.0,350,NutriWise curated prototype dataset (approximate values per standard serving),65,medium,45.0,3.0,0.3,0.4,28.0,35.0,1.4
+F083,Veg Burger,Fast Food,180,400,12.0,50.0,16.0,5.0,7.0,900,130,2.5,370,NutriWise curated prototype dataset (approximate values per standard serving),66,medium,45.0,3.0,0.3,0.4,28.0,35.0,1.4
+F084,Cheese Burger,Fast Food,200,560,27.0,42.0,30.0,2.0,6.0,1250,260,2.4,330,NutriWise curated prototype dataset (approximate values per standard serving),65,medium,45.0,3.0,0.3,0.4,28.0,35.0,1.4
+F085,Chicken Pizza,Fast Food,150,390,22.0,40.0,17.0,2.0,4.0,900,280,2.3,300,NutriWise curated prototype dataset (approximate values per standard serving),65,medium,45.0,3.0,0.3,0.4,28.0,35.0,1.4
+F086,Margherita Pizza,Fast Food,150,360,15.0,43.0,14.0,2.0,4.0,780,300,2.0,250,NutriWise curated prototype dataset (approximate values per standard serving),68,medium,45.0,3.0,0.3,0.4,28.0,35.0,1.4
+F087,Veg Pizza,Fast Food,150,350,14.0,42.0,14.0,3.0,5.0,820,250,2.2,300,NutriWise curated prototype dataset (approximate values per standard serving),66,medium,45.0,3.0,0.3,0.4,28.0,35.0,1.4
+F088,French Fries,Fast Food,150,470,5.0,63.0,22.0,5.0,0.5,400,30,1.5,850,NutriWise curated prototype dataset (approximate values per standard serving),70,high,45.0,3.0,0.3,0.4,28.0,35.0,1.4
+F089,Chicken Nuggets,Fast Food,150,430,24.0,22.0,28.0,1.0,1.0,900,50,2.0,260,NutriWise curated prototype dataset (approximate values per standard serving),55,low,45.0,3.0,0.3,0.4,28.0,35.0,1.4
+F090,Fried Chicken,Fast Food,150,420,31.0,16.0,27.0,1.0,0.5,850,35,2.0,300,NutriWise curated prototype dataset (approximate values per standard serving),45,low,45.0,3.0,0.3,0.4,28.0,35.0,1.4
+F091,White Sauce Pasta,Fast Food,250,430,14.0,55.0,17.0,3.0,5.0,700,220,2.0,300,NutriWise curated prototype dataset (approximate values per standard serving),55,low,45.0,3.0,0.3,0.4,28.0,35.0,1.4
+F092,Red Sauce Pasta,Fast Food,250,350,11.0,58.0,9.0,5.0,9.0,650,70,2.5,420,NutriWise curated prototype dataset (approximate values per standard serving),55,low,45.0,3.0,0.3,0.4,28.0,35.0,1.4
+F093,Chicken Pasta,Fast Food,250,460,25.0,53.0,16.0,3.0,5.0,850,120,2.6,380,NutriWise curated prototype dataset (approximate values per standard serving),52,low,45.0,3.0,0.3,0.4,28.0,35.0,1.4
+F094,Grilled Sandwich,Fast Food,180,350,15.0,42.0,14.0,3.0,5.0,700,160,2.3,260,NutriWise curated prototype dataset (approximate values per standard serving),60,medium,45.0,3.0,0.3,0.4,28.0,35.0,1.4
+F095,Chicken Sandwich,Fast Food,200,430,27.0,40.0,17.0,3.0,5.0,850,120,2.5,300,NutriWise curated prototype dataset (approximate values per standard serving),60,medium,45.0,3.0,0.3,0.4,28.0,35.0,1.4
+F096,Samosa,Indian Snack,60,145,3.0,17.0,7.0,2.0,1.0,250,20,1.0,100,NutriWise curated prototype dataset (approximate values per standard serving),60,medium,25.0,3.0,0.1,0.1,22.0,28.0,0.9
+F097,Aloo Bonda,Indian Snack,60,160,3.0,22.0,7.0,2.0,1.0,240,20,1.0,120,NutriWise curated prototype dataset (approximate values per standard serving),65,medium,25.0,3.0,0.1,0.1,22.0,28.0,0.9
+F098,Pakora,Indian Snack,100,280,7.0,28.0,16.0,4.0,2.0,500,45,2.0,220,NutriWise curated prototype dataset (approximate values per standard serving),60,medium,25.0,3.0,0.1,0.1,22.0,28.0,0.9
+F099,Pani Puri,Indian Snack,150,260,5.0,38.0,9.0,3.0,5.0,700,45,2.0,230,NutriWise curated prototype dataset (approximate values per standard serving),70,high,25.0,3.0,0.1,0.1,22.0,28.0,0.9
+F100,Bhel Puri,Indian Snack,180,320,8.0,48.0,10.0,7.0,8.0,650,70,2.5,330,NutriWise curated prototype dataset (approximate values per standard serving),65,medium,25.0,3.0,0.1,0.1,22.0,28.0,0.9
+F101,Sev Puri,Indian Snack,150,360,7.0,48.0,15.0,5.0,6.0,800,75,2.3,300,NutriWise curated prototype dataset (approximate values per standard serving),65,medium,25.0,3.0,0.1,0.1,22.0,28.0,0.9
+F102,Vada Pav,Indian Snack,180,380,8.0,45.0,18.0,4.0,5.0,700,60,2.3,250,NutriWise curated prototype dataset (approximate values per standard serving),70,high,25.0,3.0,0.1,0.1,22.0,28.0,0.9
+F103,Bread Omelette,Fast Food,180,330,17.0,30.0,16.0,2.0,3.0,650,110,2.5,220,NutriWise curated prototype dataset (approximate values per standard serving),58,medium,45.0,3.0,0.3,0.4,28.0,35.0,1.4
+F104,Maggi Noodles,Packaged/Junk,205,310,7.0,44.0,11.0,2.0,3.0,900,35,2.5,180,NutriWise curated prototype dataset (approximate values per standard serving),65,medium,20.0,0.0,0.2,0.2,14.0,22.0,0.6
+F105,Cheese Maggi,Packaged/Junk,250,450,14.0,45.0,24.0,2.0,4.0,1100,220,2.5,220,NutriWise curated prototype dataset (approximate values per standard serving),62,medium,20.0,0.0,0.2,0.2,14.0,22.0,0.6
+F106,Potato Chips,Packaged/Junk,50,270,3.0,27.0,17.0,2.0,0.5,280,15,1.0,350,NutriWise curated prototype dataset (approximate values per standard serving),56,medium,20.0,0.0,0.2,0.2,14.0,22.0,0.6
+F107,Biscuits,Packaged/Junk,50,230,3.0,34.0,9.0,1.5,10.0,180,30,1.2,70,NutriWise curated prototype dataset (approximate values per standard serving),70,high,20.0,0.0,0.2,0.2,14.0,22.0,0.6
+F108,Chocolate Bar,Dessert/Junk,40,215,3.0,24.0,13.0,1.5,21.0,30,75,1.0,140,NutriWise curated prototype dataset (approximate values per standard serving),60,medium,40.0,0.0,0.4,0.3,12.0,18.0,0.5
+F109,Cake,Dessert/Junk,100,360,5.0,50.0,16.0,1.0,30.0,300,80,1.5,120,NutriWise curated prototype dataset (approximate values per standard serving),70,high,40.0,0.0,0.4,0.3,12.0,18.0,0.5
+F110,Pastry,Dessert/Junk,100,390,5.0,45.0,22.0,1.0,25.0,260,90,1.5,130,NutriWise curated prototype dataset (approximate values per standard serving),70,high,40.0,0.0,0.4,0.3,12.0,18.0,0.5
+F111,Donut,Dessert/Junk,70,280,4.0,32.0,15.0,1.0,15.0,250,45,1.5,90,NutriWise curated prototype dataset (approximate values per standard serving),75,high,40.0,0.0,0.4,0.3,12.0,18.0,0.5
+F112,Brownie,Dessert/Junk,70,290,4.0,40.0,14.0,2.0,25.0,180,45,1.5,110,NutriWise curated prototype dataset (approximate values per standard serving),70,high,40.0,0.0,0.4,0.3,12.0,18.0,0.5
+F113,Ice Cream,Dessert/Junk,100,207,4.0,24.0,11.0,0.0,21.0,80,140,0.1,160,NutriWise curated prototype dataset (approximate values per standard serving),60,medium,40.0,0.0,0.4,0.3,12.0,18.0,0.5
+F114,Tea with Milk,Drinks,200,60,2.0,9.0,2.0,0.0,8.0,35,70,0.1,100,NutriWise curated prototype dataset (approximate values per standard serving),45,low,20.0,8.0,0.2,0.2,12.0,12.0,0.3
+F115,Filter Coffee with Milk,Drinks,200,75,3.0,8.0,3.0,0.0,7.0,35,90,0.1,120,NutriWise curated prototype dataset (approximate values per standard serving),45,low,20.0,8.0,0.2,0.2,12.0,12.0,0.3
+F116,Black Coffee,Drinks,200,5,0.3,0.0,0.0,0.0,0.0,5,5,0.0,100,NutriWise curated prototype dataset (approximate values per standard serving),5,low,20.0,8.0,0.2,0.2,12.0,12.0,0.3
+F117,Cola,Drinks,330,139,0.0,35.0,0.0,0.0,35.0,15,5,0.0,5,NutriWise curated prototype dataset (approximate values per standard serving),63,medium,20.0,8.0,0.2,0.2,12.0,12.0,0.3
+F118,Orange Juice,Drinks,250,112,1.5,26.0,0.3,0.5,21.0,5,25,0.3,425,NutriWise curated prototype dataset (approximate values per standard serving),50,low,20.0,8.0,0.2,0.2,12.0,12.0,0.3
+F119,Milkshake,Drinks,300,280,9.0,40.0,9.0,1.0,34.0,160,280,0.2,360,NutriWise curated prototype dataset (approximate values per standard serving),60,medium,20.0,8.0,0.2,0.2,12.0,12.0,0.3
+F120,Chocolate Milkshake,Drinks,300,340,10.0,46.0,12.0,1.0,39.0,190,300,0.3,390,NutriWise curated prototype dataset (approximate values per standard serving),65,medium,20.0,8.0,0.2,0.2,12.0,12.0,0.3
+F121,Energy Drink,Drinks,250,115,0.0,29.0,0.0,0.0,27.0,110,5,0.0,10,NutriWise curated prototype dataset (approximate values per standard serving),70,high,20.0,8.0,0.2,0.2,12.0,12.0,0.3
+F122,Peanut Butter,Spreads,32,190,8.0,7.0,16.0,2.0,3.0,150,17,0.6,210,NutriWise curated prototype dataset (approximate values per standard serving),14,low,0.0,0.0,0.0,0.0,25.0,55.0,1.1
+F123,Almonds,Nuts,30,174,6.4,6.5,15.0,3.8,1.3,0,75,1.1,219,NutriWise curated prototype dataset (approximate values per standard serving),15,low,2.0,0.0,0.0,0.0,30.0,80.0,0.9
+F124,Peanuts,Nuts,30,170,7.3,4.8,14.7,2.5,1.4,2,28,1.4,202,NutriWise curated prototype dataset (approximate values per standard serving),15,low,2.0,0.0,0.0,0.0,68.0,60.0,1.0
+F125,Cashews,Nuts,30,166,5.5,9.0,13.2,0.9,1.7,3,11,1.9,199,NutriWise curated prototype dataset (approximate values per standard serving),25,low,2.0,0.0,0.0,0.0,30.0,82.0,1.6
+F126,Ragi Malt,Traditional Drink,250,180,5.0,33.0,3.0,4.0,8.0,100,180,2.0,260,NutriWise curated prototype dataset (approximate values per standard serving),55,low,10.0,1.0,0.0,0.1,15.0,40.0,0.9
+F127,Pesarattu,South Indian Breakfast,120,220,10.0,32.0,6.0,5.0,2.0,300,60,2.5,300,NutriWise curated prototype dataset (approximate values per standard serving),50,low,15.0,2.0,0.0,0.1,22.0,32.0,0.9
+F128,Adai,South Indian Breakfast,120,240,11.0,30.0,8.0,5.0,2.0,350,70,2.8,300,NutriWise curated prototype dataset (approximate values per standard serving),45,low,15.0,2.0,0.0,0.1,22.0,32.0,0.9
+F129,Appam,South Indian Breakfast,80,150,3.0,29.0,2.0,1.0,2.0,90,20,1.0,90,NutriWise curated prototype dataset (approximate values per standard serving),65,medium,15.0,2.0,0.0,0.1,22.0,32.0,0.9
+F130,Puttu,South Indian Breakfast,150,250,5.0,48.0,5.0,3.0,3.0,120,25,1.8,150,NutriWise curated prototype dataset (approximate values per standard serving),65,medium,15.0,2.0,0.0,0.1,22.0,32.0,0.9
+F131,Idiyappam,South Indian Breakfast,100,170,3.0,35.0,1.5,1.0,0.5,80,15,0.8,70,NutriWise curated prototype dataset (approximate values per standard serving),65,medium,15.0,2.0,0.0,0.1,22.0,32.0,0.9
+F132,Vegetable Sandwich,Fast Food,180,320,10.0,43.0,12.0,4.0,6.0,650,140,2.2,300,NutriWise curated prototype dataset (approximate values per standard serving),62,medium,45.0,3.0,0.3,0.4,28.0,35.0,1.4
+F133,Chicken Kathi Roll,Fast Food,220,500,27.0,48.0,21.0,3.0,5.0,950,100,3.0,340,NutriWise curated prototype dataset (approximate values per standard serving),60,medium,45.0,3.0,0.3,0.4,28.0,35.0,1.4
+F134,Paneer Tikka,Protein,150,310,20.0,9.0,22.0,2.0,4.0,500,300,2.0,280,NutriWise curated prototype dataset (approximate values per standard serving),27,low,60.0,1.0,0.8,1.2,25.0,30.0,2.2
+F135,Fish Curry,Protein,200,300,28.0,10.0,17.0,2.0,4.0,650,70,2.0,400,NutriWise curated prototype dataset (approximate values per standard serving),30,low,60.0,1.0,3.5,2.2,25.0,30.0,2.2
+F136,Grilled Fish,Protein,150,230,32.0,0.0,10.0,0.0,0.0,220,30,1.0,450,NutriWise curated prototype dataset (approximate values per standard serving),5,low,60.0,1.0,4.0,2.5,25.0,30.0,2.2
+F137,Fish Fry,Protein,150,360,28.0,12.0,23.0,1.0,1.0,650,45,1.8,350,NutriWise curated prototype dataset (approximate values per standard serving),35,low,60.0,1.0,3.5,2.2,25.0,30.0,2.2
+F138,Soy Chunks Curry,Protein,180,260,24.0,18.0,9.0,7.0,5.0,550,100,4.0,430,NutriWise curated prototype dataset (approximate values per standard serving),35,low,60.0,1.0,0.8,1.2,25.0,30.0,2.2
+F139,Chole Bhature,Indian Main,300,620,16.0,72.0,28.0,10.0,7.0,900,110,4.0,550,NutriWise curated prototype dataset (approximate values per standard serving),72,high,20.0,2.0,0.0,0.1,30.0,45.0,1.1
+F140,Chicken Tikka,Protein,150,280,35.0,5.0,13.0,1.0,2.0,600,45,2.0,400,NutriWise curated prototype dataset (approximate values per standard serving),5,low,60.0,1.0,0.8,1.2,25.0,30.0,2.2
+F141,Mutton Curry,Indian Curry,200,410,28.0,9.0,28.0,2.0,3.0,750,60,3.2,390,NutriWise curated prototype dataset (approximate values per standard serving),30,low,120.0,8.0,0.1,0.3,55.0,45.0,1.3
+F142,Chicken Momos,Fast Food,200,360,20.0,40.0,13.0,2.0,3.0,850,60,2.2,250,NutriWise curated prototype dataset (approximate values per standard serving),55,low,45.0,3.0,0.3,0.4,28.0,35.0,1.4
+F143,Veg Momos,Fast Food,200,300,9.0,48.0,8.0,4.0,5.0,750,70,2.0,300,NutriWise curated prototype dataset (approximate values per standard serving),58,medium,45.0,3.0,0.3,0.4,28.0,35.0,1.4
+F144,Spring Rolls,Fast Food,150,330,6.0,39.0,16.0,3.0,4.0,650,45,2.0,220,NutriWise curated prototype dataset (approximate values per standard serving),60,medium,45.0,3.0,0.3,0.4,28.0,35.0,1.4
+F145,Chicken Popcorn,Fast Food,150,400,25.0,25.0,23.0,1.0,1.0,850,40,2.0,280,NutriWise curated prototype dataset (approximate values per standard serving),55,low,45.0,3.0,0.3,0.4,28.0,35.0,1.4
+F146,Nachos with Cheese,Fast Food,150,480,12.0,48.0,27.0,5.0,3.0,850,280,2.0,250,NutriWise curated prototype dataset (approximate values per standard serving),60,medium,45.0,3.0,0.3,0.4,28.0,35.0,1.4
+F147,Hot Dog,Fast Food,150,390,15.0,34.0,22.0,2.0,6.0,1000,100,2.5,250,NutriWise curated prototype dataset (approximate values per standard serving),65,medium,45.0,3.0,0.3,0.4,28.0,35.0,1.4
+F148,Chocolate Cookies,Packaged/Junk,50,250,3.0,34.0,12.0,1.5,18.0,170,35,1.2,90,NutriWise curated prototype dataset (approximate values per standard serving),72,high,20.0,0.0,0.2,0.2,14.0,22.0,0.6
+F149,Popcorn,Snack,50,190,5.0,25.0,9.0,4.0,1.0,300,5,1.2,100,NutriWise curated prototype dataset (approximate values per standard serving),58,medium,10.0,1.0,0.0,0.0,25.0,40.0,1.0
+F150,Roasted Chana,Snack,50,190,10.0,30.0,3.0,6.0,3.0,180,40,2.5,300,NutriWise curated prototype dataset (approximate values per standard serving),35,low,10.0,1.0,0.0,0.0,160.0,60.0,1.6
